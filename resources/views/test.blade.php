@@ -1,0 +1,1 @@
+{{dd(Auth::guard('user')->check())}}
